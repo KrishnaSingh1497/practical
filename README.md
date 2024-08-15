@@ -1,0 +1,10 @@
+Practical 1 : https://www.youtube.com/watch?v=sYHD38eEn68
+Practical 2:  Lab Snort and Firewall Rules - https://www.youtube.com/watch?v=3zozsEBYroE
+Practical 3: Demonstrate Extract an Executable from a PCAP - https://www.youtube.com/watch?v=w51d4sPdzCc
+Practical 4: Demonstrate Analysis of DNS Traffic - https://www.youtube.com/watch?v=qYh6k-S5xC4
+Practical 5: Create your own syslog Server using Ubuntu - https://www.youtube.com/watch?v=K_HzYKXhhuc
+Practical 6: Configure your Linux system to send syslog messages to a syslog server and Read them Steps - https://www.youtube.com/watch?v=Cw-TXDirgcQ
+Practical 7: Install and Run Splunk on Linux - https://www.youtube.com/watch?v=RaccexMm_Ts
+Practical 8: Install and Configure ELK on Linux - https://www.youtube.com/watch?v=5L6LOhG20V0
+Practical 9: Install and Configure GrayLog on Linux - https://www.youtube.com/watch?v=KnKkBBfwBkE
+Practical 10: Demonstrate Conversion of Data into a Universal Format - https://www.youtube.com/watch?v=GExfnQQv7l8
